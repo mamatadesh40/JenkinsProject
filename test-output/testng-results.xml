@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-29T13:44:29 AEST" name="Default suite" finished-at="2023-08-29T13:45:14 AEST" duration-ms="44994">
+    <groups>
+      <group name="regressionTest">
+        <method signature="CreateCampaignwithProduct.CreateCampaignwithProduct()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" name="CreateCampaignwithProduct" class="CampaignModule.CreateCampaignwithProduct"/>
+      </group> <!-- regressionTest -->
+    </groups>
+    <test started-at="2023-08-29T13:44:29 AEST" name="Default test" finished-at="2023-08-29T13:45:14 AEST" duration-ms="44994">
+      <class name="CampaignModule.CreateCampaignwithProduct">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" started-at="2023-08-29T13:44:28 AEST" name="BeforeSuite" finished-at="2023-08-29T13:44:29 AEST" duration-ms="1029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" started-at="2023-08-29T13:44:29 AEST" name="beforeTest" finished-at="2023-08-29T13:44:29 AEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" started-at="2023-08-29T13:44:29 AEST" name="beforeClass" finished-at="2023-08-29T13:44:33 AEST" duration-ms="3542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" started-at="2023-08-29T13:44:33 AEST" name="beforeMethod" finished-at="2023-08-29T13:44:39 AEST" duration-ms="6495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CreateCampaignwithProduct()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" started-at="2023-08-29T13:44:39 AEST" name="CreateCampaignwithProduct" finished-at="2023-08-29T13:45:12 AEST" duration-ms="32830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCampaignwithProduct -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" started-at="2023-08-29T13:45:12 AEST" name="afterMethod" finished-at="2023-08-29T13:45:14 AEST" duration-ms="1661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" started-at="2023-08-29T13:45:14 AEST" name="afterClass" finished-at="2023-08-29T13:45:14 AEST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" started-at="2023-08-29T13:45:14 AEST" name="afterTest" finished-at="2023-08-29T13:45:14 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:CampaignModule.CreateCampaignwithProduct@1a677343]" started-at="2023-08-29T13:45:14 AEST" name="aftersuite" finished-at="2023-08-29T13:45:14 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- CampaignModule.CreateCampaignwithProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
